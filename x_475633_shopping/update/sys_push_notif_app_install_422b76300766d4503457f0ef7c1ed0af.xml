@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2020-08-08 11:19:44</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-08 11:19:44</sys_created_on>
+        <sys_id>422b76300766d4503457f0ef7c1ed0af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cpCFvIdBxbc:APA91bFE3kZPvZIneN_IXlUcj9Pw68wsE9dchnwnOMuel0T6spFzYKL0vqNVMQ4HjJmV8onIDsWLRUjBx-0HTbYyN23YrAxEH4qyxiaGBwyD0k30_78I_D-Y667uqgK2GLciAJuhrW0O</sys_name>
+        <sys_package display_value="Shopping List" source="x_475633_shopping">b5b7f2bc0726d4503457f0ef7c1ed04c</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="Shopping List">b5b7f2bc0726d4503457f0ef7c1ed04c</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_422b76300766d4503457f0ef7c1ed0af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-08 11:19:44</sys_updated_on>
+        <sys_user_id display_value="Nitin Gupta">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>cpCFvIdBxbc:APA91bFE3kZPvZIneN_IXlUcj9Pw68wsE9dchnwnOMuel0T6spFzYKL0vqNVMQ4HjJmV8onIDsWLRUjBx-0HTbYyN23YrAxEH4qyxiaGBwyD0k30_78I_D-Y667uqgK2GLciAJuhrW0O</token>
+    </sys_push_notif_app_install>
+</record_update>
